@@ -42,7 +42,10 @@ A Geospatial Data Engineering project focused on analysing Hyderabad's urban roa
 - screenshots: Project visualisations
 
 ## Final Map
-See the exported PDF in the output folder.
+
+![Hyderabad Road Network Analysis](screenshots/your-map-filename.png)
+
+The map presents Hyderabad's major road network and road density analysis using QGIS.
 
 ## Data Source
 © OpenStreetMap contributors.
